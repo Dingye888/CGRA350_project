@@ -1,4 +1,4 @@
-# Grass movement under force
+# Grass motion under force
 
 If you want to add files, create the cpp and hpp inside the work/src folder and add them in the CmakeList file before building.
 
