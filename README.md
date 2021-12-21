@@ -14,8 +14,7 @@ For our project, we will be looking into implementing the motions of grass under
 ## Results:
 This is the results of working wind field simulation and correct expected visualizations. The greens other than the first image represents faster moving wind velocity where reddish meaning slower. They are vector representations so direction and length takes into account. The green “arrows” have genuinely longer length suggesting they are moving faster and hence our wind. 
 
-![wField](screen_capture/vel.png)
-![wField](screen_capture/vel_flowing.png)
+![wField](screen_capture/vel.png) ![wField](screen_capture/vel_flowing.png)
 ![wField](screen_capture/Den_flowing.png)
 ![wField](screen_capture/Density.png)
 
