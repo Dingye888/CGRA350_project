@@ -36,11 +36,11 @@ Density balls advecting with the wind.
 
 ## Refrence:
 
-1) SIGGRAPH paper - Lee, RR., Lo, Y., Chu, HK. et al. A simulation on grass swaying with dynamic wind force. Vis Comput 32, 891–900 (2016).
-2) Harris, M.: Fast fluid dynamics simulation on the gpu. GPU Gems 1, 637–665 (2004).
-3) Stam, J.: Stable fluids. In: Proceedings of the 26th annual conference on computer graphics and interactive techniques, pp. 121–128. ACM Press (1999).
-4) Ashe, Mike. (2006). Fluid Simulation For Dummies.
-5) Stam, Jos. (2003). Real-Time Fluid Dynamics for Games.
+1) [SIGGRAPH paper - Lee, RR., Lo, Y., Chu, HK. et al. A simulation on grass swaying with dynamic wind force. Vis Comput 32, 891–900 (2016).](https://link.springer.com/article/10.1007/s00371-016-1263-7)
+2) [Harris, M.: Fast fluid dynamics simulation on the gpu. GPU Gems 1, 637–665 (2004).](https://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch38.html)
+3) [Stam, J.: Stable fluids. In: Proceedings of the 26th annual conference on computer graphics and interactive techniques, pp. 121–128. ACM Press (1999).](https://dl.acm.org/doi/10.1145/311535.311548)
+4) [Ashe, Mike. (2006). Fluid Simulation For Dummies.](https://www.mikeash.com/pyblog/fluid-simulation-for-dummies.html)
+5) [Stam, Jos. (2003). Real-Time Fluid Dynamics for Games.](https://www.researchgate.net/publication/2560062_Real-Time_Fluid_Dynamics_for_Games)
 6) [Coding Challenge #132: Fluid Simulation - YouTube](https://www.youtube.com/watch?v=alhpH6ECFvQ)
 
 
