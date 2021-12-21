@@ -41,7 +41,7 @@ Density balls advecting with the wind.
 3) Stam, J.: Stable fluids. In: Proceedings of the 26th annual conference on computer graphics and interactive techniques, pp. 121–128. ACM Press (1999).
 4) Ashe, Mike. (2006). Fluid Simulation For Dummies.
 5) Stam, Jos. (2003). Real-Time Fluid Dynamics for Games.
-6) Coding Challenge #132: Fluid Simulation - YouTube
+6) [Coding Challenge #132: Fluid Simulation - YouTube](https://www.youtube.com/watch?v=alhpH6ECFvQ)
 
 
 ## Configuration:
