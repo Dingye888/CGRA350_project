@@ -14,9 +14,15 @@ For our project, we will be looking into implementing the motions of grass under
 ## Results:
 This is the results of working wind field simulation and correct expected visualizations. The greens other than the first image represents faster moving wind velocity where reddish meaning slower. They are vector representations so direction and length takes into account. The green “arrows” have genuinely longer length suggesting they are moving faster and hence our wind. 
 
-The balls represent the density state of the cells, where larger and the darker meaning more dense while the smaller and lighter meaning more light. As the simulation plays out, the balls can be seen as they are advecting along with the wind.
+![wField](screen_captures/texture_pot.PNG)
+![wField](screen_captures/random_instanced_colors.PNG)
+![wField](screen_captures/Instanced_light.PNG)
+![wField](screen_captures/Box_and_texture.PNG)
+![wField](screen_captures/random_instanced.PNG)
+![wField](screen_captures/random_instanced2.PNG)
 
-Unfortunately we could not get hold of the person who was allocated for the grass dynamics so the final results did not have the grass moving in any way.
+
+The balls represent the density state of the cells, where larger and the darker meaning more dense while the smaller and lighter meaning more light. As the simulation plays out, the balls can be seen as they are advecting along with the wind.
 
 Dynamic GUI:
 When in off state, no parameter settings were shown to keep a clean simple look.
