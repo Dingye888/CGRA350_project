@@ -65,3 +65,6 @@ Solution Explorer > base > [right click] > Properties > Configuration Properties
 Select `All Configurations` from the configuration drop-down
 Set `Working Directory` to `$(SolutionDir)../work`
 Set `Command Arguments` to whatever is required by your program
+
+This was forked from original group. 
+
