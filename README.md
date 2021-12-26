@@ -49,14 +49,15 @@ Density balls advecting with the wind.
 If you want to add files, create the cpp and hpp inside the work/src folder and add them in the CmakeList file before building.
 After cloneing, create an empty "build" folder inside the "CGRA350T12019_Framework" directory and use cmake to make the soulution.
 
-From inside the build folder..
+From inside the build folder.
 
 For Windows
-cmake -G "Visual Studio XX" ..\work
+
+`cmake -G "Visual Studio XX" ..\work`
 
 or
 
-cmake -G "Visual Studio XX Win64" ..\work
+`cmake -G "Visual Studio XX Win64" ..\work`
 
 
 After opening the solution (`.sln`) you will need to set some additional variables before running.
